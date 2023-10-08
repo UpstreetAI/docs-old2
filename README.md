@@ -7,7 +7,7 @@ Powered by [Docusaurus](https://docusaurus.io/).
 ## Developing
 
 ```bash
-cd website
+cd docs
 yarn install
 yarn start
 ```
