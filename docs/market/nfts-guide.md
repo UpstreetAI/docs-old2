@@ -69,7 +69,7 @@ Upstreet NFTs are located here: [https://opensea.io/assets/asset-v3?search[chain
 
 ### Sell on Opensea
 
-In order to sell your [items](/upstreetai/items) on [Opensea](https://opensea.io) you need to transfer it to another chain such as Polygon or Ethereum mainnet. 
+In order to sell your [items](/upstreet/items) on [Opensea](https://opensea.io) you need to transfer it to another chain such as Polygon or Ethereum mainnet. 
 
 1. Login to [Upstreet.com](https://upstreet.ai/) (could also type `.login` on Discord)
 2. Go to the item asset page (can click on your profile)
