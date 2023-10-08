@@ -51,10 +51,6 @@ First determine the NFT id of the item you want to purchase. View the server sto
 
 > ![](/img/store.jpg)
 
-
-
-If you want to learn more about the Discord Bot, you can [read more here](../upstreet/discord-bot) or join our [Discord server](https://discord.gg/upstreet).
-
 ---
 
 ## Opensea

@@ -8,7 +8,7 @@ title: Minting Flow
 This is what happens when a user uploads a file to a Upstreet interface be minted as a NFT.
 
 
-1. User logs into website through Metamask, Discord, or Email or joins a Discord server with the [NFT bot](../upstreet/discord-bot).
+1. User logs into website through Metamask, Discord, or Emai.
 2. Uploads files to minting interface (jpg, png, gif, mp3, mp4, webm, glb, VRM, WBN)
 3. The content uploads to IPFS. Upstreet runs its own pinning server.
 
