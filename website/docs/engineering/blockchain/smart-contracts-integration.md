@@ -46,7 +46,7 @@ A Stringified object signed by the user metamask wallet that contains tokenId, n
 ```js
 redeem(voucher)
 ```
-Parses the given stringified voucher object and calls the WebaverseERC721 smart contract to verify the voucher. Upon succesful verification, the smart contract transfers the NFT object to the redeemer.
+Parses the given stringified voucher object and calls the Upstreet ERC721 smart contract to verify the voucher. Upon succesful verification, the smart contract transfers the NFT object to the redeemer.
 #### Inputs
 * voucher: {string} **[Required]**
 A Stringified object that contains tokenId, nonce, expiry, and NFT object's owner's signature.

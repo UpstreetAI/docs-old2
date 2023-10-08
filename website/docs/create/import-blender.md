@@ -8,7 +8,7 @@ This guide explains how you can export your content from Blender to bring it int
 > Note: This [plugin](https://github.com/upstreetai/blender-plugin) is not currently maintained right now. If you're a developer interested in this this workflow please contact us on [Twitter](https://twitter.com/upstreetai) or [Discord](https://discord.gg/upstreet).
 
 ## 1. Download the add-on
-[Download the latest version here](https://github.com/upstreetai/blender-plugin/raw/master/io_scene_webaverse.zip).
+[Download the latest version here](https://github.com/upstreetai/blender-plugin/).
 
 ## 2. Install the add-on
 
