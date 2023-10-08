@@ -130,6 +130,6 @@ With those setting we can define:
 * `bloom` – Bloom effect
 
 For further reading please take a look at existing scenes here:
-https://github.com/upstreetai/upstreet.ai/tree/master/scenes
+https://github.com/upstreetai/upstreet.ai/tree/main/scenes
 
 ---

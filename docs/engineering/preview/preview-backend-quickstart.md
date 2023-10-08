@@ -18,16 +18,12 @@ The preview server is a headless chromium instance that generates screenshots an
 
 ## Prerequisites
 
-[Install and Run the Webabaverse App](https://github.com/upstreetai/upstreet.ai/blob/master/README.md)
+[Install and Run the Webabaverse App](https://github.com/upstreetai/upstreet.ai/blob/main/README.md)
 
 ---
 
 ## [Quick Start Basics](../quick-start-basics)
 
-### Additional Setup
-
-**(Optional):** Before running the application make sure Ports :80, :8997, :8998, :8999 are not already in use. If your port :80 is in use, you can change it from [index.js](https://github.com/upstreetai/preview-backend/blob/master/index.js#L17)
-  
 ```bash
 
 # Change default port inside index.js
